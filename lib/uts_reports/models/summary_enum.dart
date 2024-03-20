@@ -1,0 +1,1 @@
+enum SummaryType {total, operatorWise, paymentModeWise, terminalTypeWise, }
